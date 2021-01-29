@@ -15,9 +15,13 @@ Risk and Safety: With the work being done on a laptop and an android phone, ther
 Data Analysis: Vuforia, which is an asset, has enormous importance for augmented reality   People will be able to tell what assets are used. The assets in Unity that are used in Artistic Collaboration through Augmented Reality are 3d models and Vuforia, plus some other things. Using c# (c sharp) in Unity I will be able to keep a model stationary at one spot will also begin able to increase and decrease the size of the model, and after that, the art tools will be added through c#. However, it will be a fundamental art app with ar, so it will not look as professional as Adobe Photoshop or Illustrate. After the code is finished I will select build settings and click build and run on my android phone and hopefully, with few bugs the app will work on the phone.
 
 Bibliography: 
+
 Unity
+
 Vuforia
+
 Visual Studios
+
 Github
   
 
