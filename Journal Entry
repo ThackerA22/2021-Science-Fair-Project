@@ -9,24 +9,50 @@ Through the research I have done Unity is the best software for augmented realit
 January 15, 2021
 1:17 p.m.
 Aiden Thacker,
-I have run into an issue with downloading Unity, so now I am trying to download Unity again and download Vuforia, which has shown up in multiply tutorials I’ve been watching. It doesn’t matter how many times I attempt to download Unity the application says installation aborted. Today not much is going to happen, I just going to try to download Unity and Vuforia correctly so I will not have problems later in the line.
+I have run into an issue with downloading Unity, so now I am trying to download Unity again and download Vuforia, 
+which has shown up in multiply tutorials I’ve been watching. It doesn’t matter how many times I attempt to 
+download Unity the application says installation aborted. Today not much is going to happen, I just going to try 
+to download Unity and Vuforia correctly so I will not have problems later in the line.
 
 January 20, 2021
 1:15 p.m
 Aiden Thacker,
-After spending the whole weekend not able to accomplish anything, Mr. Seward has offered me a school computer to work on the science fair project because my laptop for some (currently) unknown reason well not download Unity Hub, which allows me to code on Unity.
+After spending the whole weekend not able to accomplish anything, Mr. Seward has offered me a school computer to 
+work on the science fair project because my laptop for some (currently) unknown reason well not download Unity 
+Hub, which allows me to code on Unity.
 
 January 22, 2021
 1:04 p.m.
 Aiden Thacker,
-Mr. Seward gave me a different computer Wednesday and finally I have been able to download Unity Hub, Unity, and Vuforia all the softwares currently to do agumented reality. It finally worked now I get to do some figuring about how the AR app is going to work. (. . .)
+Mr. Seward gave me a different computer Wednesday and finally I have been able to download Unity Hub, Unity, and 
+Vuforia all the softwares currently to do agumented reality. It finally worked now I get to do some figuring 
+about how the AR app is going to work. 
 
 January 27, 2021
 9:30 p.m.
 Aiden Thacker,
-I am still alive I just have not updated the journal in a bit, but I got some ground work to work now and my android phone I am using is completely uesless in this project now that I realise after try to use it the entry log will go into more detail.
+I am still alive I just have not updated the journal in a bit, but I got some ground work to work now and my 
+android phone I am using is completely uesless in this project now that I realise after trying to use it the 
+entry log will go into more detail.
 
 January 28, 2021
 9:50 p.m.
 Aiden Thacker,
-I hoping I can use someone else's android phone for this project because the camera quaility is so bad it can not regonize any surface area, so my phone is out of the equation now. The past two days have just been working on my google classroom stuff I hope next is better than this year's science fair.
+I hoping I can use someone else's android phone for this project because the camera quaility is so bad it can 
+not regonize any surface area, so my phone is out of the equation now. The past two days have just been working 
+on my google classroom stuff I hope next is better than this year's science fair.
+
+Feburary 03, 2021
+2:35 p.m.
+Aiden Thacker,
+After watching, maybe, ten youtube videos on scaling in vuforia and painting in unity I've decide to not do a
+scaling system because I do not have time to complete the project, and with Mr. Seward's help on deciding on 
+how the painting system will work I will be able to work on a demo for Friday.
+
+Feburary 05, 2021
+12:35 p.m.
+Aiden Thacker,
+I hate image targetting it does not seem to work for, however, image targetting is what I am using for my project
+to allow the 3d model to stay stationary instead of begin moved over and over with each click. Right now I have 
+semi finished demo for my project that uses ground plane stage and image targetting, and in theory it should work 
+correctly.
