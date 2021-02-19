@@ -1,32 +1,4 @@
 Log Entry:
 
-Artistic Collaboration through Augmented Reality began when my teacher and I where brainstorming ideas for augmented reality, 
-my teacher spit out the idea of having a shared reality in an app where you could use camera on your phone and write something, 
-he was calling graffiti using geo mapping where you write something and other people could see what you wrote. This got me thinking 
-about an virutally reality program called Oculus Medium where you created scupltures in virutally reality, so what I wanted to see 
-if I could recreate Oculus Medium through augmented reality. However, as time went by I realized I do not the skill required to create 
-such an app, so what I have decide to do instead is to create an augmented reality app that can place a 3d model and after the user places 
-the 3d model down the user can paint on the 3d model. 
 
-What I had to do first when working on this project was I had to do reseacher for what softwares to use for augmented reality. The most recommended 
-choose was Unity for augmented reality with Arkit, Wikitude, and Vuforia. Comparing the three Vuforia is the best for two major reason because Vuforia 
-first is completely free compared to Wikitude where you can do a forty five free day trail, and Vuforia does everthing Arkit can execpt better because Vuforia 
-supports more apple and android phone's than both Wikitude and Arkit. Since I decide to use Unity I download both Wikitude and Vuforia to test which would 
-work better for me. A problem arose when I attempted to download Unity hub to my personal computer I tried many troubleshooting recommendation, yet not a 
-single oen help so what my teacher and I decide to do was use a different computer the school loaned to me. Also to this day the problem of installation still 
-has not been fixed by Unity's support team. I know it will be frustrating if you run into the same problem as I did, but hopefully you can fix it the installation 
-problem. After I got the new laptop I was finally able to download Unity now, next was to download both Vuforia and Wikitude to see which would be the asset I 
-would use to finish the project with. To download both assets was simiply, however, importing the assets required a few extra steps to do. When I downloaded Vuforia
-I had to open my Unity project then locate the asset button in the top left in between edit and gameobject. Once I clicked on the assets button I had to locate import 
-package which was easy to see, and once I clicked import another error message occurred because I did not have git installed which worked with both Unity and Vuforia. 
-Until I installed git Vuforia would not be imported to Unity, so the installation was quit easy and simiple to do. Once git was installed the augmented reality proption
-of Vuforia. Before I started to work on Vuforia I attempt to work on Wikitude, however, A error occurr called "maintemplate.gradle file is using the old apptOptions 
-noCompress property definition which does not include types defined by unityStreamingAssets constant." and I have not been able to fix it yet but there is a solution to 
-The error code. Right at the moment I have stop using Wikitude and continue to work with Vuforia and created a rather simiple ground plane in augmented reality. All I
-did was grab a ground plane grid, a plane grid, a ar camera, and finally a 3d model. I created the project in Unity hub and first I deleted the main camera, then I 
-placed in the ar camera in the gameobjects on the Vuforia section. After the ar camera was added I then added a ground plane stage which was futher down on the Vufoira 
-section after clicking on the ground plane I choose a 3d model that did not have a animation to make it easier on me. The model was called Rodbot Kyle and I rescaled the
-robot to fit better on the ground plane stage. Afterwards I added plane finder and disable duplicate stage on the right and then made Robot Kyle a child to ground plane
-stage. Finally I implemented it into the android phone and ran the app. I tried on an Samsung Galaxy J7 Sky Pro and that did not work at all because of how old the phone
-is, so I tested the build again on a Samsung Galaxy 9 and it work now I just had to implement the art and the toolbar and I would be done.
 
