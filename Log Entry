@@ -1,4 +1,80 @@
 Log Entry:
 
 
+January 20, 2021
+1:15 p.m
+Aiden Thacker,
+After spending the whole weekend not able to accomplish anything, I have recived a different computer. During 
+class I downloaded Unity Hub and the latest version of Unity, while also downloading Vuforia. I also added a 
+license key on the Vuforia website. By the end of the day I had delete the main camera and replace it with the
+augmented reality camera with the license key on the Vuforia configuration.
 
+January 22, 2021
+1:04 p.m.
+Aiden Thacker,
+I have been working with the Samsung Galaxy J7 android phone. However, the phone has not be able to recognize 
+the surronding area in the dorm room. Eventually I had used a Samsung Galaxy 9 which work ten times better. The 
+new phone was able to pick ground stage plane, which was what I started with on the project. 
+
+January 27, 2021
+9:30 p.m.
+Aiden Thacker,
+I am still alive I just have not updated the log entry in a bit. Although, the process has been slow I have been
+able to use the new phone to try out different three-dimensional models. I have decide to use Robot Kyle on the 
+project, and maybe for a continuation I could add muitlple three-dimensional model instead of one.
+
+January 28, 2021
+9:50 p.m.
+Aiden Thacker,
+The science forms have been a real pain to fill out. The project is slowly coming along right now I am working on 
+a ground plane stage for the three-dimensional model. However, every time the screen on the phone is pressed the 
+three-dimensional model moves around I may have to switch to image target to keep it stationary instead of ground
+plane.
+
+Feburary 03, 2021
+2:35 p.m.
+Aiden Thacker,
+After watching, maybe, ten youtube videos on scaling in vuforia and painting in unity I've decide to not do a
+scaling system because I do not have time to complete the project, and with Mr. Seward's help on deciding on 
+how the painting system will work I will be able to work on a demo for Friday. I have added a image target 
+with printer paper as image on to the image target itself in the insecptor. However, the phone will not pick 
+up the printer paper as the image for the three-dimensional model to appear. I do not know the reason why it
+is not working, I guess I will need to do further research.
+
+Feburary 05, 2021
+12:35 p.m.
+Aiden Thacker,
+It has been two days and I still have not been able to get the image target working yet. Right now I have 
+semi finished demo for my project that uses ground plane stage and image targetting, and in theory it should work 
+correctly.
+
+Feburary 08, 2021
+8:40 p.m.
+Aiden Thacker,
+I have decide to implement mid air stage instead of ground plane because ground plane has a consent height there 
+is no changing that. However, mid air stage can do everything ground plane and also have a different height so I 
+can place the three-dimensional sphere almost anywhere. So far the mid air stage is working.
+
+Feburary 10, 2021
+12:55 p.m.
+Aiden Thacker,
+I have been watching Youtube video on how to change the color of a three-dimensional sphere with a button. I was 
+able learn to create the code for the three primary colors. However, right now I have not tested if the color 
+changing would on augmented reality.
+
+Feburary 12, 2021
+1:15 p.m.
+Aiden Thacker, 
+Today I have nearly finished the project. I have been able to create three different c sharp scripts for each 
+primary color and implemented the color changing to the augmented reality and it works. Although, the mid air 
+stage is working and the color changer is working the image target is still not working I will have to do more 
+research.
+
+Feburary 14, 2021
+9:25 p.m. 
+Aiden Thacker,
+After researching on Vuforia's website about image targeting I found out that printer paper, notebook paper, 
+and color paper will not work. I should have researched that before attempting all three, anyway the reason why
+image target could not work with those types of paper is that the camera draws lines to recognize the image, and
+if the image has to many variation like the three listed above the camera will have a hard to try to work. However, 
+I now have a new image that will work for the project and everything has been tested and it works. 
